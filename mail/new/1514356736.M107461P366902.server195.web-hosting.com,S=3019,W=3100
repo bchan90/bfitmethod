@@ -1,0 +1,81 @@
+Return-Path: <>
+Delivered-To: bfitnvsd@server195.web-hosting.com
+Received: from server195.web-hosting.com
+	by server195.web-hosting.com (Dovecot) with LMTP id 2ewCBgBAQ1o2mQUAWcAEjw
+	for <bfitnvsd@server195.web-hosting.com>; Wed, 27 Dec 2017 01:38:56 -0500
+Return-path: <>
+Envelope-to: bfitnvsd@server195.web-hosting.com
+Delivery-date: Wed, 27 Dec 2017 01:38:56 -0500
+Received: from mailnull by server195.web-hosting.com with local (Exim 4.89)
+	id 1eU5Me-001b0H-1G
+	for bfitnvsd@server195.web-hosting.com; Wed, 27 Dec 2017 01:38:56 -0500
+X-Failed-Recipients: bryan.chan@bfitmethod.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server195.web-hosting.com>
+To: bfitnvsd@server195.web-hosting.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1514356735-eximdsn-196215961
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1eU5Me-001b0H-1G@server195.web-hosting.com>
+Date: Wed, 27 Dec 2017 01:38:56 -0500
+
+--1514356735-eximdsn-196215961
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  bryan.chan@bfitmethod.com
+    No Such User Here
+
+--1514356735-eximdsn-196215961
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server195.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;bryan.chan@bfitmethod.com
+Status: 5.0.0
+
+--1514356735-eximdsn-196215961
+Content-type: message/rfc822
+
+Return-path: <bfitnvsd@server195.web-hosting.com>
+Received: from bfitnvsd by server195.web-hosting.com with local (Exim 4.89)
+	(envelope-from <bfitnvsd@server195.web-hosting.com>)
+	id 1eU5Md-001b02-RK
+	for bryan.chan@bfitmethod.com; Wed, 27 Dec 2017 01:38:55 -0500
+To: bryan.chan@bfitmethod.com
+Subject: =?UTF-8?B?TmV3IEluc3RhbGxhdGlvbiBvZiBXb3JkUHJlc3M=?=
+X-PHP-Originating-Script: 0:mail_functions.php
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+From: Softaculous <softaculous@server195.web-hosting.com>
+Reply-To: softaculous@server195.web-hosting.com
+X-Mailer: PHP/5.6.30
+Message-Id: <E1eU5Md-001b02-RK@server195.web-hosting.com>
+Sender:  <bfitnvsd@server195.web-hosting.com>
+Date: Wed, 27 Dec 2017 01:38:55 -0500
+
+A new installation of WordPress 4.9.1 has been completed. The details of the installation are shown below:
+Path : /home/bfitnvsd/public_html
+URL : https://bfitmethod.com
+Admin URL : https://bfitmethod.com/wp-admin/
+Admin Username : bryan.chan
+Admin Password : ********
+Admin Email: bryan.chan@bfitmethod.com
+MySQL Database : bfitnvsd_wp798
+MySQL DB User : bfitnvsd_wp798
+MySQL DB Host : localhost
+MySQL DB Password : ********
+Update Notification : Enabled
+Auto Upgrade : Disabled
+Automated Backups : Disabled
+Time of Installation : December 27, 2017, 6:38 am
+
+If you wish to unsubscribe from such emails, go to your Control Panel -> Softaculous -> Email Settings
+
+
+--1514356735-eximdsn-196215961--
